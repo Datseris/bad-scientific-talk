@@ -7,7 +7,7 @@
 # Guidelines
 
 ## Preparation & Time management
-* You must prepare your talk only while inside a train and it is prefarred to do so during the trip towards the conference.
+* You must prepare your talk only while inside a train and it is preferred to do so during the trip towards the conference.
 * Be sure to spend 5 minutes during your introduction talking about your past job, which is completely irrelevant with your corrent job.
 * While being in the middle of your talk you will occassionally see the chairperson raising his two fingers making a "V". This in no way means you have 2 minutes left! It means "Victory" because your talk is progressing so well.
 
