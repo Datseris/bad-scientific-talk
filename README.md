@@ -17,6 +17,7 @@
 * If you include figures in your talks, make certain that they have no legends and no lebels. Such things spoil the suspense for the viewer!
 * The x-axis should never be something simple, e.g. time. Instead plot your data versus the logarithm of 1/time. It is important for your viewers to exercise their brains and monotonous transformations are trivial anyway.
 * It is very inspiring for the viewers to view slides with several overly complicated figures. This feeling of not understanding anything reminds them of the joy of the unknown and why they became scientists in the first place.
+* A figure says more than 1000 words. So conversely - instead of putting the figure - feel free to just place a text slide describing your method in full detail. To be on the safe side, just read the whole slide during the presentation. People will very likely appreciate your sophisticated style in line of great poets and novelists.
 
 ## Results & Messages
 * Key messages are overrated. Instead of boiling your work into simple to understand concepts, list every single result you had in the last 10 years.
