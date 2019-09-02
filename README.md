@@ -10,11 +10,13 @@
 * You must prepare your talk only while inside a train and it is preferred to do so during the trip towards the conference.
 * Be sure to spend 5 minutes during your introduction talking about your past job, which is completely irrelevant with your corrent job.
 * While being in the middle of your talk you will occassionally see the chairperson raising his two fingers making a "V". This in no way means you have 2 minutes left! It means "Victory" because your talk is progressing so well.
-* Variations and stressing in voice intensity are only for poetry and do not fit the seriousness of a scientific talk. Go through your entire talk while maintaining a constant pitch and intensity level with your voice. If you can do the entire talk without catching a breath, it's all the more impressive!
+* Variations and stressing in voice intensity are only for poetry and do not fit the seriousness of a scientific talk. Go through your entire talk while maintaining a constant pitch and intensity level with your voice. 
+* If you can do the entire talk without catching a breath, it's all the more impressive!
 
 ## Content
 ### Equations
-* Have overly complicated equations in your slides. Start by saying that you can't explain these overly complicated equations, but then start explaining them any way, making sure that the symbols in the equations are never explained.
+* Have overly complicated equations in your slides. Start by saying that you can't explain these overly complicated equations, but then start explaining them any way.
+* Be sure that the symbols in the equations are never explained. You want your audience to have questions after the talk after all!
 * If your equations do not span the entire slide end-to-end, it is not impressing enough.
 
 
@@ -36,4 +38,4 @@
 # Contributing
 Please consider contributing to our guidelines!
 
-How can you know whether your comment fits here? Well, if during a talk you noted something you really disliked, then it probably fits here :D 
+How can you know whether your comment fits here? Well, if during a talk you noted something you really disliked, then it probably fits here. Just present it in a comical way :D 
