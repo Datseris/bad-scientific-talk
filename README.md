@@ -31,7 +31,7 @@
 
 ## Results & Messages
 * Key messages are overrated. Instead of boiling your work into simple to understand concepts, list every single result you had in the last 10 years.
-* Conclusion slides take valuable space when they could instead be overly complicated plots. Don't bother making them.
+* Conclusion slides take valuable space when there could be overly complicated plots instead. Don't bother making them.
 
 # Contributing
 Please consider contributing to our guidelines!
