@@ -12,10 +12,12 @@
 * While being in the middle of your talk you will occassionally see the chairperson raising his two fingers making a "V". This in no way means you have 2 minutes left! It means "Victory" because your talk is progressing so well.
 * Variations and stressing in voice intensity are only for poetry and do not fit the seriousness of a scientific talk. Go through your entire talk while maintaining a constant pitch and intensity level with your voice. 
 * If you can do the entire talk without catching a breath, it's all the more impressive!
+* Every question after your talk is not really a question. It is an invitation for lengthy discussion. After starting to answer the specific question, start talking at length about other matters, and even deviate from the original question. Remember: the chairperson cannot stop you if you don't stop talking!
 
 ## Content
 ### Introduction
 * When giving a talk in an audience of experts in a field, always include the most basic introduction possible (e.g. introduce the wave-particle duality in a conference about string theory). Start your talk by saying "of course I don't have to show these slides in an audience of experts", but show each and every slide irrespectively. Starting with something the audience is familiar with will make you more approachable!
+* Do not fall into the common trap of putting your work into context with existing literature. This will give the impression that your work is not novel and people will think lowly of you!
 
 ### Equations
 * Have overly complicated equations in your slides. Claim that you can't explain these overly complicated equations, but then start explaining them any way.
