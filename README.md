@@ -28,6 +28,14 @@
 * 1000 words can be described as a "wall of text". Since you already have a wall, why not build an entire castle? Have several slides with 1000 words each; that way you will create an impenetrable castle worthy of praise from your adversaries (in this case, the audience).
 * Make sure you include screenshots of title+abstract of published papers of yours in every slide. It doesn't have to be relevant to the slide.
 
+### Acronyms
+
+Acronyms serve two very important purposes: Firstly, you can heavily compress your slides saving valuable space for even more figures and text.
+Secondly they create that unique in-group feeling as soon as people from the audience recognize acronyms only known by experts. People not familiar with some acronyms will enjoy the fun guessing what is meant.
+Don't waste your precious time explaining the acronyms, as it would spoil the fun anyway.
+
+You will immediately recognize the positive effect of lots of acronyms on the atmosphere during the talk.
+
 
 ## Results & Messages
 * Key messages are overrated. Instead of boiling your work into simple to understand concepts, list every single result you had in the last 10 years.
