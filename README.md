@@ -8,9 +8,9 @@
 
 ## Preparation, Time management, Execution
 * You must prepare your talk only while inside a train and it is preferred to do so during the trip towards the conference.
-* Be sure to spend 5 minutes during your introduction talking about your past job, which is completely irrelevant with your corrent job.
+* Be sure to spend 5 minutes during your introduction talking about your past job, which is completely unrelated to your current job.
 * While being in the middle of your talk you will occassionally see the chairperson raising his two fingers making a "V". This in no way means you have 2 minutes left! It means "Victory" because your talk is progressing so well.
-* Variations and stressing in voice intensity are only for poetry and do not fit the seriousness of a scientific talk. Go through your entire talk while maintaining a constant pitch and intensity level with your voice. 
+* Variations and stressing in voice intensity are only for poetry and do not fit the seriousness of a scientific talk. Go through your entire talk while maintaining a constant pitch and intensity level with your voice.
 * If you can do the entire talk without catching a breath, it's all the more impressive!
 * Every question after your talk is not really a question. It is an invitation for lengthy discussion. After starting to answer the specific question, start talking at length about other matters, and even deviate from the original question. Remember: the chairperson cannot stop you if you don't stop talking!
 
@@ -39,8 +39,8 @@
 
 ### Acronyms
 
-Acronyms serve two very important purposes: Firstly, you can heavily compress your slides saving valuable space for even more figures and text.
-Secondly they create that unique in-group feeling as soon as people from the audience recognize acronyms only known by experts. People not familiar with some acronyms will enjoy the fun guessing what is meant.
+Acronyms serve two very important purposes: first, you can heavily compress your slides saving valuable space for even more figures and text.
+Second, they create that unique in-group feeling as soon as people from the audience recognize acronyms only known by experts. People not familiar with some acronyms will enjoy the fun guessing what is meant.
 Don't waste your precious time explaining the acronyms, as it would spoil the fun anyway.
 
 You will immediately recognize the positive effect of lots of acronyms on the atmosphere during the talk.
@@ -53,4 +53,4 @@ You will immediately recognize the positive effect of lots of acronyms on the at
 # Contributing
 Please consider contributing to our guidelines!
 
-How can you know whether your comment fits here? Well, if during a talk you noted something you really disliked, then it probably fits here. Just present it in a comical way :D 
+How can you know whether your comment fits here? Well, if during a talk you noted something you really disliked, then it probably fits here. Just present it in a comical way :D
