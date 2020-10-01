@@ -18,6 +18,7 @@
 ### Introduction
 * When giving a talk in an audience of experts in a field, always include the most basic introduction possible (e.g. introduce the wave-particle duality in a conference about string theory). Start your talk by saying "of course I don't have to show these slides in an audience of experts", but show each and every slide irrespectively. Starting with something the audience is familiar with will make you more approachable!
 * Do not fall into the common trap of putting your work into context with existing literature. This will give the impression that your work is not novel and people will think lowly of you!
+* Every time you enter a new section of your talk, start with a little story telling how you came doing this project. A good example is "One sunny Thursday I was listening to this talk... and that happened... and I remembered my bachelor days...". It is well known that scientists appreciate fairytales. 
 
 ### Equations
 * Have overly complicated equations in your slides. Claim that you can't explain these overly complicated equations, but then start explaining them any way.
