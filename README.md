@@ -31,6 +31,7 @@
 * The x-axis should never be something simple, e.g. time. Instead plot your data versus the logarithm of 1/time. It is important for your viewers to exercise their brains and monotonous transformations are trivial anyway.
 * It is very inspiring for the viewers to view slides with several overly complicated figures. This feeling of not understanding anything reminds them of the joy of the unknown and why they became scientists in the first place.
 * For the crucial parameters for the results of your model, never bother remembering their value or putting this value on the slide. When the audience ask for this value say "I don't know". This is a good opportunity for you to mention your paper, and how the person asked can find the value there!
+* You might think that having large and easy to see figures is a good idea. However, instead of making the figures larger, it is better to have about 70% of the slide to be white space around them. After all, it is well known that it is the frame that makes the painting.
 
 ### Text
 * A figure says more than 1000 words. So conversely - instead of putting the figure - feel free to just place a text slide describing your method in full detail. To be on the safe side, just read the whole slide during the presentation. People will very likely appreciate your sophisticated style in line of great poets and novelists.
