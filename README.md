@@ -9,7 +9,7 @@
 ## Preparation, Time management, Execution
 * You must prepare your talk only while inside a train and it is preferred to do so during the trip towards the conference.
 * Be sure to spend 5 minutes during your introduction talking about your past job, which is completely unrelated to your current job.
-* While being in the middle of your talk you will occassionally see the chairperson raising his two fingers making a "V". This in no way means you have 2 minutes left! It means "Victory" because your talk is progressing so well.
+* While being in the middle of your talk you will occassionally see the chairperson raising their two fingers making a "V". This in no way means you have 2 minutes left! It means "Victory" because your talk is progressing so well.
 * Variations and stressing in voice intensity are only for poetry and do not fit the seriousness of a scientific talk. Go through your entire talk while maintaining a constant pitch and intensity level with your voice.
 * If you can do the entire talk without catching a breath, it's all the more impressive!
 * Every question after your talk is not really a question. It is an invitation for lengthy discussion. After starting to answer the specific question, start talking at length about other matters, and even deviate from the original question. Remember: the chairperson cannot stop you if you don't stop talking!
